@@ -24,6 +24,5 @@ public class JunaidHossain {
 
         var equation = new Equation();
         equation.areaOfNonCircle(num1, num2);
-
     }
 }
