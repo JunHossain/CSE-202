@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/*/
+    @author Md. Junaid Hossain
+ */
 public class JunaidHossain {
     public static void main(String[] args) {
         var input = new Scanner(System.in);
